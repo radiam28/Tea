@@ -132,3 +132,27 @@ var HalfandFullBakedPuerhTea = {
         value: '4'
     },
 };
+
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu" aria-labelledby="Choose Your Tea">
+    <a class="dropdown-item" href="#">WhiteTea</a>
+    <a class="dropdown-item" href="#">GreenTea</a>
+    <a class="dropdown-item" href="#">BlackTea</a>
+    <a class="dropdown-item" href="#">DarjeelingTea</a>
+    <a class="dropdown-item" href="#">OolongRolledTea</a>
+    <a class="dropdown-item" href="#">OolongLongLeafTea</a>
+    <a class="dropdown-item" href="#">TisaneTea</a>
+    <a class="dropdown-item" href="#">RawPuerhTea</a>
+    <a class="dropdown-item" href="#">HalfandFullBakedPuerhTea</a>
+  </div>
+</div>
+
+
+<html lang="en"
+    <head>
+        <meta charset="UTF-8">
+        <title>Tea Application
+            </head>
