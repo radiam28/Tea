@@ -1,0 +1,7 @@
+# Ignore git files so we don't commit irrelevant shit
+.idea/
+.vscode/
+package-lock.json
+node_modules/
+.swp
+.DS_Store
